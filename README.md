@@ -19,7 +19,7 @@ Note: In testing
           id
           name
         }
-      }
+      } 
 4. Sample Response
    {
     "data": {
