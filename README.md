@@ -7,7 +7,7 @@ Note: In testing
    Endpoint :
      http://localhost:8080/graphql
    Query : 
-     query {
+     - query {
         movieById(id: 1) {
           id
           title
