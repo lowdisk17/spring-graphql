@@ -21,7 +21,7 @@ Note: In testing
         }
       } 
 4. Sample Response
-   {
+   - {
     "data": {
         "movieById": {
             "id": "1",
